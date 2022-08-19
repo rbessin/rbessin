@@ -7,7 +7,7 @@ High School Student & Web Developer
 Hey, I'm currently a rising sophomore in high school. I started coding in september of 2021 by taking a python class offered by my high school. After that class I figured I had found something that I was genuinely interested and passionate about and so my journey began. I created a few 2D Unity Games with C# for around 2.5 months before moving on to Web Development and I havent looked back since then. I plan on taking a CS degree after high school. I aspire to become a Sotware Engineer later on. And I hope to use these skills to make the world a better place.
 
 * 🌍  I'm based in New York.
-* 🖥️  See my portfolio at [Placeholder](http://placeholder).
+* 🖥️  See my portfolio at  [🚫](http://github.com/SKY3E).
 * ✉️  You can contact me at [bessin.raphael@gmail.com](mailto:bessin.raphael@gmail.com).
 * 🧠  I'm currently learning Data Structures & MySQL.
 * 🏢  I'm searching for Events & Hackathons to attend in 2022-2023.
