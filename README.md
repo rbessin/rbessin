@@ -4,7 +4,7 @@ Hey ! I'm SKY3E ![](https://user-images.githubusercontent.com/18350557/176309783
 High School Student & Web Developer
 -----------------------------------
 
-Hey, I'm currently a rising sophomore in high school. I started coding in september of 2021 by taking a python class offered by my high school. After that class I figured I had found something that I was genuinely interested and passionate about and so my journey began. I created a few 2D Unity Games with C# for around 2.5 months before moving on to Web Development and I havent looked back since then. I plan on taking a CS degree after high school. I aspire to become a Software Engineer later on. And I hope to use these skills to make the world a better place.
+Hey, I'm currently a rising sophomore in high school. I started coding in september of 2021 by taking a python class offered by my high school. After that class I figured I had found something that I was genuinely interested and passionate about and so my journey began. I created a few 2D Unity Games with C# and then started Web Development and have pursued both simultaneously creating a variety of projects. I plan on taking a CS degree after high school. I aspire to become a Software Engineer later on. And I hope to use these skills to make the world a better place.
 
 * 🌍  I'm based in NY, USA.
 * 🖥️  See my portfolio at  [https://sky3e.github.io/Portfolio-V1/](https://sky3e.github.io/Portfolio-V1/).
