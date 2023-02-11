@@ -9,7 +9,7 @@ Hey, I'm currently a rising sophomore in high school. I started coding in septem
 * 🌍  I'm based in NY, USA.
 * 🖥️  See my portfolio at  [https://sky3e.github.io/Portfolio-V1/](https://sky3e.github.io/Portfolio-V1/).
 * ✉️  You can contact me at [bessin.raphael@gmail.com](mailto:bessin.raphael@gmail.com) or on discord.
-* 🧠  I'm currently learning Data Structures & SQL.
+* 🧠  I'm currently working on Unity 2D Shooter Game.
 * 🏢  I'm searching for Events & Hackathons to attend in 2022-2023.
 * 🤝  I'm open to collaborating on nearly any Web Based Project.
 * ⚡  I love Sudoku, Biking, & Gaming.
