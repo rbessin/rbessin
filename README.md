@@ -8,7 +8,7 @@ Hey, I'm currently a sophomore in high school. I started coding in september of 
 
 💫 About Me:
 -----------------------------------
-🌍 Based in NY, USA.<br>🖥️ See my portfolio at https://sky3e.github.io/Portfolio-V1/.<br>✉️ Contact me at bessin.raphael@gmail.com or on discord (sky5e).<br>🔭 Currently working on a Unity 2D ecosystem simulator.<br>💬 Ask me about Web Development & Unity Game Development.<br>🤝 I'm open to collaborating on web based projects.<br>⚡ I also like sudoku, video games & biking.
+🌍 Based in NY, USA.<br>🖥️ See my portfolio at https://portfolio-v2-sky3e.vercel.app/.<br>✉️ Contact me at bessin.raphael@gmail.com or on discord (sky5e).<br>🔭 Currently working on a Unity 2D ecosystem simulator.<br>💬 Ask me about Web Development & Unity Game Development.<br>🤝 I'm open to collaborating on web based projects.<br>⚡ I also like sudoku, video games & biking.
 
 
 🌐 Socials:
