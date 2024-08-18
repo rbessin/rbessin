@@ -21,9 +21,9 @@ Hey, I'm currently a sophomore in high school. I started coding in september of 
 
 📊 GitHub Stats:
 -----------------------------------
-![](https://github-readme-stats.vercel.app/api?username=SKY3E&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SKY3E&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SKY3E&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![rbessin's Stats](https://github-readme-stats.vercel.app/api?username=rbessin&theme=vue&show_icons=true&hide_border=false&count_private=true)
+![rbessin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rbessin&theme=vue&hide_border=false)
+![rbessin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rbessin&theme=vue&show_icons=true&hide_border=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SKY3E&icon=1&color=1)](https://visitcount.itsvg.in)
