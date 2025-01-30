@@ -4,7 +4,7 @@ Hey ! I'm Raphael Bessin ![](https://user-images.githubusercontent.com/18350557/
 High School Student & Web Developer
 -----------------------------------
 
-Hey, I'm currently a senior in high school. I started coding in september of 2021 by taking a python class offered by my high school. After that class I figured I had found something that I was genuinely interested and passionate about and so my journey began. I created a few 2D Unity Games with C# and then started Web Development and have pursued both simultaneously creating a variety of projects. I plan on taking a CS degree after high school. I aspire to become a Software Engineer later on. And I hope to use these skills to make the world a better place if Chat GPT doesn't take over by then...
+Hey, I'm currently a senior in high school. I started coding in september of 2021 by taking a python class. After that class I figured I had found something that I was genuinely interested and passionate about and so my journey began. I created a few 2D Unity Games with C# and then started Web Development and have pursued both simultaneously creating a variety of projects. I plan on taking a CS degree after high school and I aspire to become a Software Engineer later on. I hope to use these skills to make the world a better place if Chat GPT doesn't take over by then...
 
 💫 About Me:
 -----------------------------------
