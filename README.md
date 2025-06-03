@@ -1,14 +1,14 @@
 Hey ! I'm Raphael Bessin ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =================================================================================================================================
 
-High School Student & Web Developer
+College Freshman & Web Developer
 -----------------------------------
 
-Hey, I'm currently a senior in high school. I started coding in september of 2021 by taking a python class. After that class I figured I had found something that I was genuinely interested and passionate about and so my journey began. I created a few 2D Unity Games with C# and then started Web Development and have pursued both simultaneously creating a variety of projects. I plan on taking a CS degree after high school and I aspire to become a Software Engineer later on. I hope to use these skills to make the world a better place if Chat GPT doesn't take over by then...
+Hey, I'm currently a freshman in college at Northeastern. I started coding in september of 2021 by taking a python class. After that class I figured I had found something that I was genuinely interested and passionate about and so my journey began. I created a few 2D Unity Games with C# and then started Web Development and have pursued both simultaneously creating a variety of projects. I am currently taking a Bachelor of Science in Computer Science and I aspire to become a Software Engineer later on. I hope to use these skills to make the world a better place if Chat GPT doesn't take over by then...
 
 💫 About Me:
 -----------------------------------
-🌍 Based in NY, USA.<br>🖥️ See my portfolio at https://portfolio-v2-sky3e.vercel.app/.<br>✉️ Contact me at bessin.raphael@gmail.com or on discord (sky5e).<br>🔭 Currently working on a planner / organizer website called Flow-Board.<br>💬 Ask me about Web Development & Unity Game Development.<br>🤝 I'm open to collaborating on web based projects.<br>⚡ I also like sudoku, video games & biking.
+🌍 Based in NY, USA.<br>🖥️ See my portfolio at https://portfolio-v2-sky3e.vercel.app/.<br>✉️ Contact me at bessin.raphael@gmail.com or on discord (sky5e).<br>🔭 Currently working on a Digital Logic Simulator  called From NAND.<br>💬 Ask me about Web Development & Unity Game Development.<br>🤝 I'm open to collaborating on web or game based projects.<br>⚡ I also like sudoku, video games & biking.
 
 
 🌐 Socials:
