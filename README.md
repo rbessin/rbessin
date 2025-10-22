@@ -10,9 +10,9 @@ I'm a freshman at Northeastern University pursuing a Bachelor of Science in Comp
 
 I specialize in full-stack web development using modern frameworks like Next.js and React, while also creating interactive 2D games with Unity (C#) and Godot (GDScript). I'm driven by the challenge of solving complex problems and creating software that makes a meaningful impact.
 
-**🔭 Currently Building:** [Signal Relay](https://github.com/rbessin/Signal-Relay) - Interactive digital logic simulator for designing and visualizing circuits
-**✨ Recently Finished:** [Stride Editor](https://github.com/rbessin/Stride-Editor) - Feature-rich text editor with intelligent autocomplete
-**🌱 Learning:** Data structures & algorithms, software engineering principles, and modern web technologies
+**🔭 Currently Building:** [Signal Relay](https://github.com/rbessin/Signal-Relay) - Interactive digital logic simulator for designing and visualizing circuits with custom components  
+**✨ Recently Finished:** [Stride Editor](https://github.com/rbessin/Stride-Editor) - Feature-rich text editor with intelligent autocomplete  
+**🌱 Learning:** Data structures & algorithms, software engineering principles, and modern web technologies  
 **💼 Open To:** Software engineering internships, Co-op opportunities, hackathons, and team-based projects
 
 ---
