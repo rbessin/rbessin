@@ -19,7 +19,7 @@ I specialize in full-stack web development using modern frameworks like Next.js 
 
 ## 📫 Let's Connect
 
-- **Portfolio:** [raphaelbessin.com](https://portfolio-v2-sky3e.vercel.app/)
+- **Portfolio:** [https://portfolio-v2-sky3e.vercel.app](https://portfolio-v2-sky3e.vercel.app/)
 - **Email:** [bessin.raphael@gmail.com](mailto:bessin.raphael@gmail.com)
 - **LinkedIn:** [linkedin.com/in/raphael-bessin](https://linkedin.com/in/raphael-bessin/)
 
@@ -55,13 +55,3 @@ I specialize in full-stack web development using modern frameworks like Next.js 
 ## 📊 Most Used Languages
 
 ![rbessin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rbessin&theme=vue&show_icons=true&hide_border=true&layout=compact)
-
----
-
-## 🎯 Featured Projects
-
-Check out my pinned repositories below to see what I've been working on!
-
----
-
-**💡 "The best error message is the one that never shows up." – Thomas Fuchs**
