@@ -4,6 +4,8 @@ CS student at Northeastern University, building websites and games.
 
 Currently working on **[CurbYourCarbon](https://github.com/rbessin/CurbYourCarbon)**, a CO2 tracker browser extension.
 
+Check out my personal website at **[https://raphaelbessin.com/](https://raphaelbessin.com/)**.
+
 ---
 
 ### Featured Projects
