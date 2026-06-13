@@ -1,7 +1,6 @@
 # Raphael Bessin 👋
 
-CS student at Northeastern University, building websites and games.
-
+CS student at Northeastern University, building websites and games.  
 Check out my personal website at **[https://raphaelbessin.com/](https://raphaelbessin.com/)**.
 
 ---
