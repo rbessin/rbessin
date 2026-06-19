@@ -1,6 +1,6 @@
 # Raphael Bessin 👋
 
-CS student at Northeastern University, building websites and games.  
+Honors CS student at Northeastern University, building websites and games.  
 Check out my personal website at **[https://raphaelbessin.com/](https://raphaelbessin.com/)**.
 
 ---
@@ -12,7 +12,5 @@ Check out my personal website at **[https://raphaelbessin.com/](https://raphaelb
 [**CurbYourCarbon**](https://github.com/rbessin/CurbYourCarbon) — CO2 tracker browser extension
 
 ---
-
-Java · C# · Python · TypeScript · Godot · Unity
 
 [Email](mailto:bessin.raphael@gmail.com) · [LinkedIn](https://linkedin.com/in/raphael-bessin/)
